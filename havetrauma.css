@@ -1,0 +1,41 @@
+body {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: relative;
+  height: 100vh;
+  background-size: 100%;
+  width: 100%;
+
+}
+
+div {
+  width: 100%;
+  margin-top: 10%;
+}
+
+H3 {
+  display: block;
+  font-size: 4rem;
+  color: #0f0f0f;
+  margin-left: 20%;
+  line-height: 15%;
+}
+
+.buttons {
+  display: flex;
+  gap: 30px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #626060;
+  color: whitesmoke;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 40%;
+  border-radius: 6px;
+}

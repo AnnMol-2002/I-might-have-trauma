@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: relative;
+  height: 100vh;
+  background-size: 100%;
+  width: 100%;
+
+}
+
+h1 {
+  color: green;
+}
+
+div {
+  width: 100%;
+  margin-top: 10%;
+}
+
+H1 {
+  display: block;
+  font-size: 4rem;
+  color: red;
+  margin-left: 25%;
+
+}
+
+H3 {
+  display: block;
+  font-size: 4rem;
+  color: black;
+  margin-left: 25%;
+}
+
+
+.box {
+  margin-left: 25%;
+}
+
+.buttons {
+  display: flex;
+  gap: 30px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #626060;
+  color: whitesmoke;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  margin-right: 20px;
+  border-radius: 6px;
+}
