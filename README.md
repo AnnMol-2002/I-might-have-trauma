@@ -20,6 +20,8 @@ By providing a user-centric, informative, and interactive experience, the ‘I M
 
 # ChatBot Code
 - [Go check it out!](https://github.com/aishwarya-panampilly/SaphWMN)
+![0f730824-4313-4517-abfb-047b0d0fedeb](https://github.com/AnnMol-2002/I-might-have-trauma/assets/83901287/65439557-0906-4e55-9da7-58b82b8b9ee3)
+
 
 # Challenges
 - Sensitivity and Emotional Impact: Dealing with trauma requires a sensitive and compassionate approach. Designing a website that effectively conveys empathy while respecting the emotional well-being of users can be challenging. Balancing informative content with a supportive tone requires careful consideration.
