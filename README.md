@@ -23,3 +23,8 @@ By providing a user-centric, informative, and interactive experience, the ‘I M
 - Time constraints
 
 # Team Members
+- [Aditi Ajithkumar](https://github.com/AditiAjithkumar)
+- [Aishwarya J Panampilly](https://github.com/aishwarya-panampilly)
+- [Haseena Beegam H](https://github.com/HaseenaBeegamH)
+- [Ann Mol](https://github.com/AnnMol-2002)
+
