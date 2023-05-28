@@ -1,4 +1,5 @@
 # I Might Have Trauma
+![image](https://github.com/AnnMol-2002/I-might-have-trauma/assets/83901287/397efd85-8ce5-498e-a4c4-3772484df449)
 "I Might Have Trauma" a groundbreaking website designed to help individuals gain insights into their psychological well-being and determine if they may be experiencing trauma.The eyebrow raising title is intended for the sole purpose of appearing first in search bars when an individual looks for an answer to their  Our platform aims to guide users in identifying potential trauma symptoms and taking their initial steps towards a path of recovery and renewed well-being. The primary objective is to encourage reflection and create an avenue for individuals to explore their emotions, facilitating an opportunity to seek additional guidance if desired.
 At "I Might Have Trauma," we understand the significance of recognizing and addressing trauma, as it can profoundly impact an individual's daily life and overall well-being. Our website serves as a safe and confidential space for users to explore their potential trauma symptoms and gain a deeper understanding of their own emotional landscape.
 
