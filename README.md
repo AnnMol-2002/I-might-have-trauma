@@ -16,6 +16,9 @@ The ‘I Might have Trauma’ website is intended for individuals who are experi
 
 By providing a user-centric, informative, and interactive experience, the ‘I Might have Trauma’ website aims to be a valuable tool in helping individuals recognize their trauma, take their first steps towards recovery, and find hope and support on their healing journey.
 
+# ChatBot Code
+- Go check it out![https://github.com/aishwarya-panampilly/SaphWMN]
+
 # Challenges
 - Sensitivity and Emotional Impact: Dealing with trauma requires a sensitive and compassionate approach. Designing a website that effectively conveys empathy while respecting the emotional well-being of users can be challenging. Balancing informative content with a supportive tone requires careful consideration.
 - Technical difficulties: Development of Chat Bot  and Open API keys frequently expire due to security and access control measures. Issues while pushing to github.
